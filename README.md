@@ -1,7 +1,8 @@
 # DevProjects - {project_name}
 
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [{project_name}](url)
+Find the project requirements here: [🖥 Web development
+Random number generator web app](https://github.com/DoctorXiong2002/-Web-development-Random-number-generator-web-app)
 
 ## Tech/framework used
 Built with Dr.Xiong
